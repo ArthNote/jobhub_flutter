@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696408770912",
+    "project_id": "jobhubflutter",
+    "storage_bucket": "jobhubflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696408770912:android:64af976bfffb24b5157605",
+        "android_client_info": {
+          "package_name": "com.example.tutorial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIQsfCChXq_TLkCMmert-_0IksWYf9Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
